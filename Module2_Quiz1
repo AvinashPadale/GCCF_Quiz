@@ -1,0 +1,17 @@
+1.
+Which storage service is best suited to unstructured data?
+Cloud Storage
+
+2.
+You are looking for an unstructured storage solution for archiving files that might never be accessed again. Which Cloud Storage class is the best option?
+Archive storage
+
+3.
+Which storage solution is a petabyte scale, NoSQL database?
+Bigtable
+
+4.
+Google Cloud offers two managed relational database services. What are they?
+Cloud SQL
+Cloud Spanner
+
